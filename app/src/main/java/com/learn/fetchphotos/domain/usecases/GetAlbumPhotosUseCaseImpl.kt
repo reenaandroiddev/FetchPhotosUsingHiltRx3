@@ -2,7 +2,6 @@ package com.learn.fetchphotos.domain.usecases
 
 import com.learn.fetchphotos.domain.entities.AlbumPhotos
 import com.learn.fetchphotos.domain.repository.AlbumPhotosRepository
-import com.learn.fetchphotos.domain.result.Result
 import io.reactivex.rxjava3.core.Observable
 import javax.inject.Inject
 
